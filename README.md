@@ -9,7 +9,7 @@ I’ve been learning how to make websites since 2018. I can make all sorts of cl
 * 🌍  I'm based in Hong Kong
 * 🖥️  See my portfolio at [owen-tam.com](http://owen-tam.com)
 * ✉️  You can contact me at [owenhwtam@gmail.com](mailto:owenhwtam@gmail.com)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning Nuxt.js
 
 <a href="https://www.twitter.com/owentamwebdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/owentamwebdev?logo=twitter&style=for-the-badge&color=10b981&labelColor=22272e"
