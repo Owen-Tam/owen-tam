@@ -7,7 +7,7 @@ Front-end Web Dev and Designer
 I’ve been learning how to make websites since 2018. I can make all sorts of clean websites with HTML, CSS and JavaScript, from simple static sites to complex web apps. I also love to design minimalistic and interactive web sites that tell stories and solve problems! Some side projects of mine are making a discord bot and creating with 3D software. I'm currently still improving my skills while building projects.
 
 * 🌍  I'm based in Hong Kong
-* 🖥️  See my portfolio at [owen-tam.com](http://owen-tam.com)
+* 🖥️  See my portfolio at [owen-tam.com](http://owentam.dev)
 * ✉️  You can contact me at [owenhwtam@gmail.com](mailto:owenhwtam@gmail.com)
 * 🧠  I'm learning Node.js
 
