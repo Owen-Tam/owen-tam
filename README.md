@@ -8,5 +8,5 @@ I am a secondary school student in Hong Kong interested in I&T and digital secur
 * 🌍  I'm based in Hong Kong
 * 🖥️  See my portfolio at [owen-tam.dev](http://owentam.dev)
 * ✉️  You can contact me at [owenhwtam@gmail.com](mailto:owenhwtam@gmail.com)
-* 🧠  I'm working on an agentic AI system for geolocation OSINT tasks
+* 🧠  I'm working on an agentic AI system for OSINT CTF tasks
 * 🛠️  Building cool projects since 2018
