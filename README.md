@@ -1,21 +1,27 @@
 Hi 👋 My name is Owen Tam
 ------------------------------
 
-Full-stack developer, Cybersecurity enthusiast, and AI alignment researcher 
+Building safer AI and secure software.
 ------------------------------
 
-I am an undergraduate at Princeton University interested in AI safety and ML systems. My passion for technology stems from my mission to develop not just smarter, but safer technology.
+I'm a CS undergraduate at Princeton University (prospective BSE, Statistics & Machine Learning minor) interested in AI safety and ML systems. My passion for technology stems from my mission to build not just smarter, but safer technology.
 
 I've had experience working with:
-* Front-end dev with Tailwind, Nuxt and TypeScript
-* Back-end dev with Node and Express.js
-* Machine learning and Computer Vision with PyTorch
-* Game dev with Godot and GDScript
-* Cybersecurity Capture-The-Flag competitions focusing on web and binary exploitation 
+* **Full-stack web:** Nuxt, Vue, Tailwind and TypeScript on the front end; Node, Express.js and MongoDB on the back end
+* **Machine learning:** PyTorch and computer vision, including [research on adversarial attacks against deepfake detectors](https://github.com/Owen-Tam/uap-detection-deepfake-feature-map)
+* **Cybersecurity:** CTF competitions focusing on web and binary exploitation (C, assembly, GDB)
+* **Game dev:** Godot and GDScript
+
+------------------------------
+### What I'm up to
+* 🐯  Building internal dev tools at [TigerApps](https://github.com/TigerAppsOrg)
+* 🧠  Fellow at Princeton AI Alignment, learning about AI safety
+* 🔍  Co-authored [*Does It Run in the Family?*](https://github.com/Owen-Tam/does-it-run-in-the-family-apartswarm), on whether LLM code monitors go easy on their own model family (Apart Research Swarm Alignment Hackathon, Nov 2026)
+* 🛡️  CTF player: web & binary exploitation, Hong Kong team at the International Cybersecurity Olympiad 2025, and CUHK CTF 2025 champion
 
 ------------------------------
 ### More about me
-* 🌍  I'm currently based in Princeton, NJ
-* 🛠️  Building cool projects since 2018
-* 🖥️  See my portfolio at [owen-tam.dev](http://owentam.dev)
-* ✉️  You can contact me at [owenhwtam@gmail.com](mailto:owenhwtam@gmail.com)
+* 🌍  I'm currently based in Princeton, NJ
+* 🛠️  Building cool projects since 2018
+* 🖥️  See my portfolio at [owentam.dev](https://owentam.dev)
+* ✉️  You can contact me at [owen.tam@princeton.edu](mailto:owen.tam@princeton.edu)
