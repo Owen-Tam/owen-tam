@@ -15,7 +15,7 @@ I've had experience working with:
 ------------------------------
 ### What I'm up to
 * 🐯  Building internal dev tools at [TigerApps](https://github.com/TigerAppsOrg)
-* 🧠  Fellow at Princeton AI Alignment, learning about AI safety and conducting technical AI research 
+* 🧠  Intro to AI safety Fellow at Princeton AI Alignment, learning about AI safety and conducting technical AI research 
   * co-authored [*Does It Run in the Family?*](https://github.com/Owen-Tam/does-it-run-in-the-family-apartswarm), on whether LLM code monitors go easy on their own model family
 * 🛡️  CTF player: web & binary exploitation, Hong Kong team at International Cybersecurity Olympiad 2025, and CUHK CTF 2025 champion
 
