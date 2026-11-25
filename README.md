@@ -7,7 +7,7 @@ Building safer AI and secure software.
 I'm a CS undergraduate at Princeton University (prospective BSE, Statistics & Machine Learning minor) interested in AI safety and ML systems. My passion for technology stems from my mission to build not just smarter, but safer technology.
 
 I've had experience working with:
-* **Full-stack web:** Nuxt, Vue, React, Tailwind and TypeScript on the front end; Node, Express.js, FastAPI and MongoDB on the back end
+* **Full-stack web:** Nuxt, Vue, React, Tailwind and TypeScript on the front end; Node, Express.js, and MongoDB on the back end
 * **Machine learning:** PyTorch and computer vision, including [research on adversarial attacks against deepfake detectors](https://github.com/Owen-Tam/uap-detection-deepfake-feature-map)
 * **Cybersecurity:** CTF competitions focusing on web and binary exploitation (C, assembly, GDB)
 * **Game dev:** Godot and GDScript
